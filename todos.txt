@@ -1,0 +1,14 @@
+add a new player
+text alexa
+call the insurance
+fix the bug
+fix the draw
+show the movie
+add a new member
+Boil a egg
+a new member
+Make Soup
+Make pizza
+clean the code
+we just made a default arg
+play a game
