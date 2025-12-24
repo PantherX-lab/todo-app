@@ -1,15 +1,13 @@
-add a new player
-text alexa
+Add a Movietext alexa
 call the insurance
-fix the bug
-fix the draw
-show the movie
-add a new member
-Boil a egg
-a new member
-Make Soup
+Buy Penadd a new member
+My newest to do is addedMake Soup
 Make pizza
 clean the code
 we just made a default arg
 play a game
 Master Python!
+Anything
+Last todo
+Call Becky
+And Lastly
